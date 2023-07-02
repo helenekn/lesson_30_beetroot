@@ -1,0 +1,23 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+}
+
+body,
+html {
+  min-height: 100vh;
+  font-style: italic;
+  background: -webkit-gradient(linear, left top, left bottom, from(#356e66), to(#04322c));
+  background: linear-gradient(#356e66, #04322c);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+  padding: 0 calc(50vw - 300px);
+}
+.header__title {
+  margin-top: 30px;
+  font-weight: normal;
+  text-align: center;
+}/*# sourceMappingURL=main.min.css.map */
